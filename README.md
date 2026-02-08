@@ -41,3 +41,16 @@ You can decrypt/encrypt the binary by using `GD-Rom explorer`providing the appro
 
 This project is intended exclusively for educational purposes and has no affiliation with SEGA or any other third party / tools developer. NaomiLib format, Naomi-GD-Rom-IP-Patcher, NLOBJPUT and games using it are exlusive property of SEGA. Naomi-GD-Rom-IP-Patcher is a recreative project, no compensation has been offered for research and will not be accepted in any form.
 
+
+## Preservation Notes (DOC)
+
+- Forked to preserve NAOMI GD-ROM image rebuilding tooling
+- Primary use case: Broader NAOMI collection preservation
+- DOC relevance: Indirect (image integrity and archival practices)
+- Purpose:
+  - Patch or rebuild IP.bin for NAOMI GD-ROM images
+  - Ensure boot correctness for archival images
+- Preservation rationale:
+  - Supports long-term maintainability of NAOMI game images
+  - Useful for DOC-adjacent and future NAOMI restoration projects
+- Fork date: 2026-02
